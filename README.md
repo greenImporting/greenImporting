@@ -1,4 +1,2 @@
-hallo
 i am [placeHolder]
-
-projects 👍
+projects github 
