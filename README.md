@@ -2,4 +2,4 @@
 I am <b>greenImporting</b>, a student who has this github page to upload future projects 😊
 
 
-deleting of repos = lack of commits lool
+deleting of repos = lack of contributions lool
