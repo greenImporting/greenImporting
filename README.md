@@ -1,4 +1,9 @@
-### hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+### heloo
 ## ![visitors](https://count.getloli.com/@greenImporting?padding=4)
-i am a student, this is my github which i use for github to use github
-https://greenimporting.xyz/
+cs student
+
+gitting my hub
+
+
+[my totally working website](https://greenimporting.xyz/) | [pfp](https://x.com/yumanny_/status/2120469727801688385)
+
